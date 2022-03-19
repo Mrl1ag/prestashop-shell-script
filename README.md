@@ -1,3 +1,1 @@
-# Aula Shell Script
-
-Aula de shell script da formação de SysAdminas
+# Shell script for Prestahop install
